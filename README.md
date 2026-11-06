@@ -18,7 +18,7 @@
 
 ## 怎么用
 
-直接说出你的想法。例如：
+在 Agnes 中可使用 `$intent-translator`，也可以直接说出你的想法。例如：
 
 “帮我把刚才几轮补充整理成一条能交给研发的指令。先不要改代码。”
 
@@ -32,4 +32,4 @@
 
 ## 来源与许可
 
-作者原创。许可证全文见 `LICENSE`（MIT）。
+作者：kiki 77（GitHub：[debraday885-lab](https://github.com/debraday885-lab)）。本技能由作者独立撰写，供 Agnes 使用，调用标识为 `intent-translator`。本版在最初文稿上增加了使用说明和 MIT 许可证全文。许可证见 `LICENSE`。

@@ -5,11 +5,11 @@ description: 将用户零散、模糊、未成形或分散在多轮对话中的�
 
 ## 来源与修改说明
 
-- 本 Skill 为作者原创。
-- 本版本变化：
-  - 增加根目录 `README.md`，说明适用场景、输入输出和调用边界。
-  - 增加根目录 `LICENSE`，作为本包的许可证全文。
-- 许可证全文见本包 `LICENSE`。
+- 本 Skill 由作者 kiki 77（[debraday885-lab](https://github.com/debraday885-lab)）原创，供在 Agnes 中使用。仓库见 [intent-translator](https://github.com/debraday885-lab/intent-translator)。
+- 本版本相对最初打包稿的变化：
+  - 增加根目录 `README.md`，说明适用场景、调用方式和输入输出。
+  - 增加根目录 `LICENSE`，写明 MIT 许可和版权归属。
+- 调用标识为 `intent-translator`。许可证全文见本包 `LICENSE`。
 
 # 意图转译师（Intent Translator）
 
